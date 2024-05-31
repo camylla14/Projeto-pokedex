@@ -1,4 +1,4 @@
-## Pokedex
+## Pokedex 
 
 ### [Link do projeto](https://pokedexx-pokemon.netlify.app/)
 
@@ -11,3 +11,6 @@
 - HTML
 - CSS
 - Java Script
+
+### 📍API
+  - [Link da API](https://pokeapi.co/)
